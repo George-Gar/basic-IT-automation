@@ -1,0 +1,694 @@
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+ Routing Process "ospf 193" with ID 192.168.193.191
+ Start time: 00:57:34.426, Time elapsed: 00:26:48.855
+ Supports only single TOS(TOS0) routes
+ Supports opaque LSA
+ Supports Link-local Signaling (LLS)
+ Supports area transit capability
+ Supports NSSA (compatible with RFC 3101)
+ Event-log enabled, Maximum number of events: 1000, Mode: cyclic
+ Router is not originating router-LSAs with maximum metric
+ Initial SPF schedule delay 5000 msecs
+ Minimum hold time between two consecutive SPFs 10000 msecs
+ Maximum wait time between two consecutive SPFs 10000 msecs
+ Incremental-SPF disabled
+ Minimum LSA interval 5 secs
+ Minimum LSA arrival 1000 msecs
+ LSA group pacing timer 240 secs
+ Interface flood pacing timer 33 msecs
+ Retransmission pacing timer 66 msecs
+ Number of external LSA 0. Checksum Sum 0x000000
+ Number of opaque AS LSA 0. Checksum Sum 0x000000
+ Number of DCbitless external and opaque AS LSA 0
+ Number of DoNotAge external and opaque AS LSA 0
+ Number of areas in this router is 1. 1 normal 0 stub 0 nssa
+ Number of areas transit capable is 0
+ External flood list length 0
+ IETF NSF helper support enabled
+ Cisco NSF helper support enabled
+ Reference bandwidth unit is 10000 mbps
+    Area BACKBONE(0.0.0.0)
+        Number of interfaces in this area is 2
+	Area has no authentication
+	SPF algorithm last executed 00:26:03.561 ago
+	SPF algorithm executed 2 times
+	Area ranges are
+	Number of LSA 3. Checksum Sum 0x01B3D8
+	Number of opaque link LSA 0. Checksum Sum 0x000000
+	Number of DCbitless LSA 0
+	Number of indication LSA 0
+	Number of DoNotAge LSA 0
+	Flood list length 0
+
+ Routing Process "ospf 1" with ID 2.2.2.2
+ Start time: 00:00:28.745, Time elapsed: 01:23:54.537
+ Supports only single TOS(TOS0) routes
+ Supports opaque LSA
+ Supports Link-local Signaling (LLS)
+ Supports area transit capability
+ Supports NSSA (compatible with RFC 3101)
+ Event-log enabled, Maximum number of events: 1000, Mode: cyclic
+ Router is not originating router-LSAs with maximum metric
+ Initial SPF schedule delay 5000 msecs
+ Minimum hold time between two consecutive SPFs 10000 msecs
+ Maximum wait time between two consecutive SPFs 10000 msecs
+ Incremental-SPF disabled
+ Minimum LSA interval 5 secs
+ Minimum LSA arrival 1000 msecs
+ LSA group pacing timer 240 secs
+ Interface flood pacing timer 33 msecs
+ Retransmission pacing timer 66 msecs
+ Number of external LSA 0. Checksum Sum 0x000000
+ Number of opaque AS LSA 0. Checksum Sum 0x000000
+ Number of DCbitless external and opaque AS LSA 0
+ Number of DoNotAge external and opaque AS LSA 0
+ Number of areas in this router is 1. 1 normal 0 stub 0 nssa
+ Number of areas transit capable is 0
+ External flood list length 0
+ IETF NSF helper support enabled
+ Cisco NSF helper support enabled
+ Reference bandwidth unit is 100 mbps
+    Area BACKBONE(0)
+        Number of interfaces in this area is 7
+	Area has no authentication
+	SPF algorithm last executed 00:04:22.381 ago
+	SPF algorithm executed 37 times
+	Area ranges are
+	Number of LSA 3. Checksum Sum 0x011FCB
+	Number of opaque link LSA 0. Checksum Sum 0x000000
+	Number of DCbitless LSA 0
+	Number of indication LSA 0
+	Number of DoNotAge LSA 0
+	Flood list length 0
+ 
+Source Device: 192.168.193.196 
+ Routing Process "ospf 193" with ID 192.168.193.190
+ Start time: 00:57:51.937, Time elapsed: 00:27:15.830
+ Supports only single TOS(TOS0) routes
+ Supports opaque LSA
+ Supports Link-local Signaling (LLS)
+ Supports area transit capability
+ Supports NSSA (compatible with RFC 3101)
+ Event-log enabled, Maximum number of events: 1000, Mode: cyclic
+ Router is not originating router-LSAs with maximum metric
+ Initial SPF schedule delay 5000 msecs
+ Minimum hold time between two consecutive SPFs 10000 msecs
+ Maximum wait time between two consecutive SPFs 10000 msecs
+ Incremental-SPF disabled
+ Minimum LSA interval 5 secs
+ Minimum LSA arrival 1000 msecs
+ LSA group pacing timer 240 secs
+ Interface flood pacing timer 33 msecs
+ Retransmission pacing timer 66 msecs
+ Number of external LSA 0. Checksum Sum 0x000000
+ Number of opaque AS LSA 0. Checksum Sum 0x000000
+ Number of DCbitless external and opaque AS LSA 0
+ Number of DoNotAge external and opaque AS LSA 0
+ Number of areas in this router is 1. 1 normal 0 stub 0 nssa
+ Number of areas transit capable is 0
+ External flood list length 0
+ IETF NSF helper support enabled
+ Cisco NSF helper support enabled
+ Reference bandwidth unit is 10000 mbps
+    Area BACKBONE(0.0.0.0)
+        Number of interfaces in this area is 1
+	Area has no authentication
+	SPF algorithm last executed 00:26:18.944 ago
+	SPF algorithm executed 2 times
+	Area ranges are
+	Number of LSA 3. Checksum Sum 0x01B3D8
+	Number of opaque link LSA 0. Checksum Sum 0x000000
+	Number of DCbitless LSA 0
+	Number of indication LSA 0
+	Number of DoNotAge LSA 0
+	Flood list length 0
+
+ Routing Process "ospf 1" with ID 1.1.1.1
+ Start time: 00:00:27.039, Time elapsed: 01:24:40.729
+ Supports only single TOS(TOS0) routes
+ Supports opaque LSA
+ Supports Link-local Signaling (LLS)
+ Supports area transit capability
+ Supports NSSA (compatible with RFC 3101)
+ Event-log enabled, Maximum number of events: 1000, Mode: cyclic
+ Router is not originating router-LSAs with maximum metric
+ Initial SPF schedule delay 5000 msecs
+ Minimum hold time between two consecutive SPFs 10000 msecs
+ Maximum wait time between two consecutive SPFs 10000 msecs
+ Incremental-SPF disabled
+ Minimum LSA interval 5 secs
+ Minimum LSA arrival 1000 msecs
+ LSA group pacing timer 240 secs
+ Interface flood pacing timer 33 msecs
+ Retransmission pacing timer 66 msecs
+ Number of external LSA 0. Checksum Sum 0x000000
+ Number of opaque AS LSA 0. Checksum Sum 0x000000
+ Number of DCbitless external and opaque AS LSA 0
+ Number of DoNotAge external and opaque AS LSA 0
+ Number of areas in this router is 1. 1 normal 0 stub 0 nssa
+ Number of areas transit capable is 0
+ External flood list length 0
+ IETF NSF helper support enabled
+ Cisco NSF helper support enabled
+ Reference bandwidth unit is 100 mbps
+    Area BACKBONE(0)
+        Number of interfaces in this area is 3 (1 loopback)
+	Area has no authentication
+	SPF algorithm last executed 00:04:29.134 ago
+	SPF algorithm executed 28 times
+	Area ranges are
+	Number of LSA 3. Checksum Sum 0x011FCB
+	Number of opaque link LSA 0. Checksum Sum 0x000000
+	Number of DCbitless LSA 0
+	Number of indication LSA 0
+	Number of DoNotAge LSA 0
+	Flood list length 0
+ 
+Source Device: 192.168.193.196 
+ 
+Source Device: 192.168.193.196 
+ 
+Source Device: 192.168.193.196 
+ 
+Source Device: 192.168.193.196 
+ 
+Source Device: 192.168.193.196 
+ 
+Source Device: 192.168.193.196 
+ 
+Source Device: 192.168.193.196 
+ 
+Source Device: 192.168.193.196 
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
+Source Device: 192.168.193.196 
+!
+no aaa new-model
+username derive privilege 15 password 0 @Derive123
+ 
